@@ -1,0 +1,23 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+	border: 1px solid;
+	margin: 2em;
+}
+
+tr {
+  border-top: 1px solid;
+	border-bottom: 1px solid;
+}
+
+td, th {
+  padding: 1em;
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+}
